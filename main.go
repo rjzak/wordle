@@ -11,10 +11,10 @@ import (
 const NUM_PLAYS = 6
 
 var wordsList = []string{"about", "above", "admit", "adult", "after", "again", "agent", "agree", "ahead", "allow", "alone",
-	"along", "among", "apply", "argue", "avoid", "begin", "black", "blood", "board", "break", "bring",
+	"along", "among", "apply", "argue", "avoid", "begin", "black", "blood", "board", "boast", "break", "bring",
 	"build", "carry", "catch", "cause", "chair", "check", "child", "civil", "claim", "class", "clear",
-	"close", "coach", "color", "could", "court", "cover", "crime", "death", "dream", "drive", "early",
-	"eight", "enjoy", "enter", "event", "every", "exist", "field", "fight", "final", "first", "floor",
+	"close", "coach", "coast", "color", "could", "court", "cover", "crime", "death", "dream", "drive", "early",
+	"eight", "enjoy", "enter", "event", "every", "exist", "fancy", "field", "fight", "final", "first", "floor",
 	"focus", "force", "front", "glass", "great", "green", "group", "guess", "happy", "heart", "heavy",
 	"hotel", "house", "human", "image", "issue", "large", "later", "laugh", "learn", "least", "leave",
 	"legal", "level", "light", "local", "major", "maybe", "media", "might", "model", "money", "month",
